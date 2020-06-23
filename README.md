@@ -1,4 +1,4 @@
-### Clicky
+# Clicky
 
 Clicky is a memory game app using React.
 
